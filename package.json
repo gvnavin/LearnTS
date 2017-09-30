@@ -1,0 +1,9 @@
+{
+  "name": "LearnTS",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "axios": "^0.16.2",
+    "metrix-js": "1.0.1"
+  },
+}
